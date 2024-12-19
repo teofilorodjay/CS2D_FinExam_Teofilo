@@ -1,7 +1,7 @@
 // Prompt the user for the first word, defaulting to "RACECAR"
-let word1 = prompt("Enter the first word (RACECAR):") || "RACECAR";
+let word1 = prompt("Enter the first word (RACECAR):");
 // Prompt the user for the first word, defaulting to "RACECAR"
-let word2 = prompt("Enter the second word (RECORDER):") || "RECORDER";
+let word2 = prompt("Enter the second word (RECORDER):");
 
 // Function to reverse a given string
 function reverseString(str) {
